@@ -33,5 +33,5 @@ process.on('unhandledRejection', (reason, p) => {
     // application specific logging, throwing an error, or other logic here
 });
 
-// tets
+// tets 22
 startOpenAiClient()
