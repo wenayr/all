@@ -1,0 +1,15 @@
+[submodule "subprojects/serverHook"]
+	path = subprojects/serverHook
+	url = https://github.com/wenayr/serverHook.git
+[submodule "subprojects/serversGit"]
+	path = subprojects/serversGit
+	url = https://github.com/wenayr/serversGit.git
+[submodule "subprojects/math"]
+	path = subprojects/math
+	url = https://github.com/wenayr/math.git
+[submodule "subprojects/wenay-front"]
+	path = subprojects/wenay-front
+	url = https://github.com/wenayr/wenay-front.git
+[submodule "subprojects/ai"]
+	path = subprojects/ai
+	url = https://github.com/wenayr/ai.git
