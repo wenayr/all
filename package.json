@@ -20,7 +20,6 @@
     "node-fetch": "^3.3.2",
     "path": "^0.12.7",
     "socket.io": "^4.8.1",
-    "wenay-common": "^1.0.202",
     "ssh2": "^1.16.0",
     "socket.io-client": "^4.8.1",
     "sshpk": "^1.18.0",
@@ -36,7 +35,8 @@
     "ag-grid-community": "^33.1.0",
     "ag-grid-react": "^33.1.0",
     "lightweight-charts": "^4.2.2",
-    "wenay-react": "0.0.88"
+    "wenay-common": "^1.0.209",
+    "wenay-react": "0.0.89"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
