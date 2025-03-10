@@ -35,7 +35,7 @@
     "ag-grid-community": "^33.1.0",
     "ag-grid-react": "^33.1.0",
     "lightweight-charts": "^4.2.2",
-    "wenay-common": "^1.0.209",
+    "wenay-common": "^1.0.214",
     "wenay-react": "0.0.89"
   },
   "devDependencies": {
