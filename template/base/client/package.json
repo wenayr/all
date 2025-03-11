@@ -29,7 +29,7 @@
     "ag-grid-react": "^33.1.0",
     "lightweight-charts": "^4.2.2",
     "wenay-common": "^1.0.201",
-    "wenay-react": "0.0.88"
+    "wenay-react": "0.0.90"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
