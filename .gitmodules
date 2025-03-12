@@ -13,3 +13,6 @@
 [submodule "subprojects/ai"]
 	path = subprojects/ai
 	url = https://github.com/wenayr/ai.git
+[submodule "subprojects/binanceAnnounce"]
+	path = subprojects/binanceAnnounce
+	url = https://github.com/wenayr/binanceAnnounce.git

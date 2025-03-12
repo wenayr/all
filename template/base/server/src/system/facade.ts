@@ -2,9 +2,6 @@ import {deepModifyByListenSocket3, UnAwaited} from "wenay-common";
 import {accKey} from "../getAccKey";
 
 export async function getFacadeSystem({acc}: {acc: accKey}){
-
-
-
     return {
         ping(){return "pong"}
     }

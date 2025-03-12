@@ -1,8 +1,6 @@
 import {createRoot} from "react-dom/client";
 import {Main} from "./main";
-import {useEffect, useState} from "react";
-import {Login} from "./page/login";
-import {Cash, renderBy, staticGetAdd, GridStyleDefault} from "wenay-react";
+import {GridStyleDefault} from "wenay-react";
 import {ApiAccount} from "../utils/apiFacade";
 GridStyleDefault()
 function GeneralReact() {
@@ -13,8 +11,6 @@ function GeneralReact() {
         <Main api={ApiAccount}/>
     </div>
 }
-
-
 
 
 function GeneralInit(pare:HTMLElement){
