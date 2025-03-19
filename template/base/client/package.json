@@ -28,8 +28,8 @@
     "ag-grid-community": "^33.1.0",
     "ag-grid-react": "^33.1.0",
     "lightweight-charts": "^4.2.2",
-    "wenay-common": "^1.0.219",
-    "wenay-react": "0.0.90"
+    "wenay-common": "^1.0.222",
+    "wenay-react": "0.0.94"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
