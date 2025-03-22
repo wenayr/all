@@ -34,7 +34,7 @@
     "ssh2": "^1.16.0",
     "sshpk": "^1.18.0",
     "typescript": "^5.7.3",
-    "wenay-common": "^1.0.222",
+    "wenay-common": "^1.0.223",
     "wenay-react": "0.0.94",
     "ws": "^8.18.0"
   },
