@@ -29,6 +29,7 @@
     "ag-grid-react": "^33.1.0",
     "lightweight-charts": "^4.2.2",
     "wenay-common": "^1.0.223",
+    "typescript": "^5.9.3",
     "wenay-react": "0.0.94"
   },
   "devDependencies": {
